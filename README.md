@@ -14,7 +14,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth182618&show_icons=true&locale=en&layout=compact" alt="parth182618" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=parth182618&" alt="parth182618" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthsabhaya18&" alt="Parthsabhaya18" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
