@@ -10,9 +10,9 @@
 - 📫 How to reach me **parthsabhaya7@gmail.com**
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=parth182618&label=Profile%20views&color=0e75b6&style=flat" alt="parth182618" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Parthsabhaya18&label=Profile%20views&color=0e75b6&style=flat" alt="Parthsabhaya18" /> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth182618&show_icons=true&locale=en&layout=compact" alt="parth182618" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parthsabhaya18&show_icons=true&locale=en&layout=compact" alt="Parthsabhaya18" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthsabhaya18&" alt="Parthsabhaya18" /></p>
 
