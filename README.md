@@ -18,10 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Parthsabhaya18.My_Profile&"  />
-</div>
-
 ###
 
 <div align="center">
