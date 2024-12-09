@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhargav Talpada</h1>
+<h1 align="center">Hi 👋, I'm Parth Sabhaya</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **parthsabhaya7@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://bhargavtalpada.vercel.app/](https://parthsabhaya.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://parthsabhaya.vercel.app/](https://parthsabhaya.vercel.app/)**
 
 ###
 
@@ -25,11 +25,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargav-talpada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parthsabhaya18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> 
   <br>
   <br>
     <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-talpada&theme=dark&hide_border=false" alt="bhargav-talpada strek graph" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parthsabhaya18&theme=dark&hide_border=false" alt="Parthsabhaya18 strek graph" />
     </p>
 </div>
 
@@ -44,10 +44,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhargav-talpada-55aa24261/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhargav-talpada-            55aa24261/" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-sabhaya-a37836223/" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/itz._.bhuro_/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz._.bhuro_/" height="30"       width="40" />
+<a href="https://www.instagram.com/the_parthsabhaya/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_parthsabhaya/" height="30"       width="40" />
 </a>
 </p>
 
