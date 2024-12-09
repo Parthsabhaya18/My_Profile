@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhargav-talpada.bhargav-talpada&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Parthsabhaya18.My_Profile&"  />
 </div>
 
 ###
