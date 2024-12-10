@@ -39,7 +39,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhargav-talpada-55aa24261/" target="blank">
+<a href="https://www.linkedin.com/in/parth-sabhaya-a37836223/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-sabhaya-a37836223/" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/the_parthsabhaya/" target="blank">
